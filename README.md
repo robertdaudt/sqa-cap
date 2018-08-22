@@ -1,2 +1,2 @@
 # sqa-cap
-spftware quality assurance corrective action plan
+software quality assurance corrective action plan
